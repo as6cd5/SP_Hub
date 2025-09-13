@@ -10,7 +10,7 @@ local Player = Players.LocalPlayer
 local PlayerMouse = Player:GetMouse()
 
 local splib = {
-    Themes = loadstring(game:HttpGet("https://raw.githubusercontent.com/as6cd2/splibv2/main/Themes.lua"))(),
+    Themes = loadstring(game:HttpGet("https://raw.githubusercontent.com/as6cd5/splibv2/main/Themes.lua"))(),
     Info = {
         Version = "1.1.5"
     },
@@ -26,7 +26,7 @@ local splib = {
     Options = {},
     Flags = {},
     Tabs = {},
-    Icons = loadstring(game:HttpGet("https://raw.githubusercontent.com/as6cd2/splibv2/main/Icons.lua"))()
+    Icons = loadstring(game:HttpGet("https://raw.githubusercontent.com/as6cd5/splibv2/main/Icons.lua"))()
 }
 
 -- ok this is redz lib v5 but now its for sp cuz its has edited in full! and  big improvent and added more functions by sp to contact the the dev discord @nadermohamed22
